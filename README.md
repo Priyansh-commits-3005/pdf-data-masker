@@ -22,7 +22,7 @@ Before running the application, ensure you have Python 3.12 or later installed. 
 1. **Clone the Repository**:
     
     ```bash
-    bashCopy code
+  
     git clone https://github.com/your-username/pdf-masker.git
     cd pdf-masker
     
@@ -33,7 +33,7 @@ Before running the application, ensure you have Python 3.12 or later installed. 
     Create a virtual environment (recommended) and install the required packages using the `requirements.txt` file.
     
     ```bash
-    bashCopy code
+ 
     python -m venv env
     source env/bin/activate  # On Windows, use `env\Scripts\activate`
     pip install -r requirements.txt
@@ -48,7 +48,7 @@ Before running the application, ensure you have Python 3.12 or later installed. 
     Navigate to the directory where `main.py` is located and run:
     
     ```arduino
-    arduinoCopy code
+
     streamlit run main.py
     
     ```
