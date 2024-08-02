@@ -23,7 +23,7 @@ Before running the application, ensure you have Python 3.12 or later installed. 
     
     ```bash
   
-    git clone https://github.com/your-username/pdf-masker.git
+    git clone https://github.com/Priyansh-commits-3005/pdf-data-masker.git
     
     
     ```
