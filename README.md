@@ -24,7 +24,7 @@ Before running the application, ensure you have Python 3.12 or later installed. 
     ```bash
   
     git clone https://github.com/your-username/pdf-masker.git
-    cd pdf-masker
+    cd pdf-data-masker
     
     ```
     
