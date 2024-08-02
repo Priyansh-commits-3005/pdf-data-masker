@@ -77,8 +77,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 For any inquiries or support, please contact:
 
-- **Email**: your.email@example.com
-- **GitHub**: your-username
+- **Email**: pp9210@srmist.edu.in , pp2548@srmist.edu.in  
+- **GitHub**: priyansh-commits-3005 , PranavROX
 
 ## Citations
 
