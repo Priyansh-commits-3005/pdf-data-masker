@@ -24,7 +24,7 @@ Before running the application, ensure you have Python 3.12 or later installed. 
     ```bash
   
     git clone https://github.com/your-username/pdf-masker.git
-    cd pdf-data-masker
+    
     
     ```
     
@@ -33,9 +33,11 @@ Before running the application, ensure you have Python 3.12 or later installed. 
     Create a virtual environment (recommended) and install the required packages using the `requirements.txt` file.
     
     ```bash
- 
+    
+    cd pdf-data-masker
     python -m venv env
     source env/bin/activate  # On Windows, use `env\Scripts\activate`
+    cd frontend
     pip install -r requirements.txt
     
     ```
