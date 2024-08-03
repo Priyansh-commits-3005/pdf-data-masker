@@ -11,7 +11,7 @@ st.set_page_config(
 
 # Sidebar
 st.sidebar.header("PDF Processing App")
-logo_path = "/frontend/assests/logo.png"  # Update this to your correct relative path
+logo_path = "./frontend/assests/logo.png"  # Update this to your correct relative path
 try:
     st.sidebar.image(logo_path, use_column_width=True)
 except FileNotFoundError:
